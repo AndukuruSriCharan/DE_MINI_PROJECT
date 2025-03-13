@@ -1,0 +1,18 @@
+{
+	"name": "Snowflake1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SnowflakeV2",
+		"typeProperties": {
+			"authenticationType": "Basic",
+			"accountIdentifier": "NVB44360",
+			"user": "charan",
+			"database": "MINIPROJECT_DB",
+			"warehouse": "MINIPROJECT_WH",
+			"role": "ACCOUNTADMIN",
+			"host": "KQYBSKO-NVB44360.snowflakecomputing.com",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQENFMzRGRDk0LUQwNDYtNDE2Mi1BMzVBLTg5OTEyNzI4MDQ3MF8wMDZjYTM0YS0yYjQ1LTRiMTgtYTg3Mi00MmM0MDIzMWI2YTQiDQp9"
+		}
+	}
+}

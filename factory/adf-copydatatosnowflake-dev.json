@@ -1,0 +1,9 @@
+{
+	"name": "adf-copydatatosnowflake-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "111ee836-fd55-4c38-b7ee-a57f39025cb8",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}

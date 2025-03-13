@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimeforsnowflake",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
