@@ -286,7 +286,8 @@
 						"defaultValue": [
 							"PRODUCTS",
 							"CUSTOMERS",
-							"TRANSACTION"
+							"TRANSACTION",
+							"COUNTRYREGION"
 						]
 					}
 				},
